@@ -1,0 +1,11 @@
+C:\Users\gokha\OneDrive\Belgeler\myproject\GitHub\MarsRoverMachine\mars\obj\Debug\netcoreapp3.1\mars.csprojAssemblyReference.cache
+C:\Users\gokha\OneDrive\Belgeler\myproject\GitHub\MarsRoverMachine\mars\obj\Debug\netcoreapp3.1\mars.AssemblyInfoInputs.cache
+C:\Users\gokha\OneDrive\Belgeler\myproject\GitHub\MarsRoverMachine\mars\obj\Debug\netcoreapp3.1\mars.AssemblyInfo.cs
+C:\Users\gokha\OneDrive\Belgeler\myproject\GitHub\MarsRoverMachine\mars\bin\Debug\netcoreapp3.1\mars.exe
+C:\Users\gokha\OneDrive\Belgeler\myproject\GitHub\MarsRoverMachine\mars\bin\Debug\netcoreapp3.1\mars.deps.json
+C:\Users\gokha\OneDrive\Belgeler\myproject\GitHub\MarsRoverMachine\mars\bin\Debug\netcoreapp3.1\mars.runtimeconfig.json
+C:\Users\gokha\OneDrive\Belgeler\myproject\GitHub\MarsRoverMachine\mars\bin\Debug\netcoreapp3.1\mars.runtimeconfig.dev.json
+C:\Users\gokha\OneDrive\Belgeler\myproject\GitHub\MarsRoverMachine\mars\bin\Debug\netcoreapp3.1\mars.dll
+C:\Users\gokha\OneDrive\Belgeler\myproject\GitHub\MarsRoverMachine\mars\bin\Debug\netcoreapp3.1\mars.pdb
+C:\Users\gokha\OneDrive\Belgeler\myproject\GitHub\MarsRoverMachine\mars\obj\Debug\netcoreapp3.1\mars.dll
+C:\Users\gokha\OneDrive\Belgeler\myproject\GitHub\MarsRoverMachine\mars\obj\Debug\netcoreapp3.1\mars.pdb
